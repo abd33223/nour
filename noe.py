@@ -9,7 +9,7 @@ Original file is located at
 import streamlit as st
 import plotly as py
 import pandas as pd
-import plotly.express as px
+
 
 # Load the healthcare data
 df_healthcare = pd.read_csv("healthcare-dataset-stroke-data 2.csv")
